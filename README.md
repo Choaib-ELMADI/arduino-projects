@@ -4,7 +4,7 @@ Arduino Projects Code
 <br>
 <h2>The code for the first project is uploaded.</h2>
 <div>
-    <img src="demos/solar-panel-1.png" width="450">
-    <img src="demos/solar-panel-2.png" width="450">
-    <img src="demos/solar-panel-3.png" width="450">
+    <img src="demos/solar-panel-1.jpg" width="300" height="300">
+    <img src="demos/solar-panel-2.jpg" width="300" height="300">
+    <img src="demos/solar-panel-3.jpg" width="300" height="300">
 </div>

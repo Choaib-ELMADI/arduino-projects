@@ -4,7 +4,7 @@
 <br>
 <h1>Projects list :</h1>
 <ol>
-    <h3><li>Solar Light Detector</li></h3>
+    <h3><li>Solar Light Detector <a href='https://ard-uno.netlify.app/'> _view_ </a></li></h3>
     <h3><li>..</li></h3>
 </ol>
 <br>

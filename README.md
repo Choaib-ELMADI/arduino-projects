@@ -14,3 +14,12 @@ This project simulates the operation of a manual gearbox using an Arduino Uno, a
 ![Project Steps](./Manual%20Gearbox%20Simulator/Images/steps.png)
 
 </div>
+
+## Suggest a Project
+
+Have an idea for a project? We'd love to hear from you! Feel free to suggest a project, and we'll do our best to bring it to life using Arduino and other tools. Let’s collaborate and build something great together!
+
+You can reach out to us at:
+
+- Email: choaibamd@gmail.com or choaib3elmadi@gmail.com
+- Instagram: https://instagram.com/choaib_elmadi
